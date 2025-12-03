@@ -1,1 +1,1 @@
-print("file-3")
+def example():print("file-3")
